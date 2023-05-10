@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background: linear-gradient(#0c0139, #12005c);
+    height: 4vw;
+}
+
+
+
+.image img {
+    width: 10vw;
+
+}
+
+.Pistolas {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100;
+    margin: 2vw 0 2vw 0;
+
+}
+
+.Pistolas h1 {
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.7rem, 2vw, 4rem);
+    margin-bottom: 1vw;
+}
+
+.Pistolas td {
+    border-style: dashed;
+    text-align: center;
+    width: 10vw;
+    height: 2vw;
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.5rem, 1vw, 2rem);
+}
+
+
+.ArmasLongas {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100;
+    margin: 2vw 0 2vw 0;
+}
+
+.ArmasLongas h1 {
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.7rem, 2vw, 4rem);
+    margin-bottom: 1vw;
+
+}
+
+.ArmasLongas table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.ArmasLongas th,
+td {
+    border-style: solid 2px;
+
+    text-align: center;
+    width: 10vw;
+    height: 2vw;
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.5rem, 1vw, 2rem);
+}
+
+
+.Melee {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100;
+    margin: 2vw 0 2vw 0;
+
+}
+
+.Melee h1 {
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.7rem, 2vw, 4rem);
+    margin-bottom: 1vw;
+}
+
+.Melee td {
+    border-style: dotted;
+    text-align: center;
+    width: 10vw;
+    height: 2vw;
+    color: #0c0139;
+    font-family: 'PressGothic', sans-serif;
+    font-size: clamp(0.5rem, 1vw, 2rem);
+}
