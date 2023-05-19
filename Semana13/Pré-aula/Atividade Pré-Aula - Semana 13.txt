@@ -1,0 +1,28 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Guilherme de Moura Santos - 2110362 
+DATA: 19/05/2023
+
+Atividade: Escreva um resumo sobre a ferramenta de desenvolvimento nodemon. Como funciona, vantagens, desvantagens?
+
+
+O Nodemon é uma ferramenta popular usada no desenvolvimento de aplicações Node.js. Ele monitora o código-fonte de um projeto e reinicia automaticamente o servidor toda vez que detecta alterações nos arquivos, eliminando a necessidade de reiniciar manualmente o servidor a cada modificação.
+
+Funcionamento:
+Quando você executa o Nodemon em seu projeto Node.js, ele monitora os arquivos do projeto em busca de alterações. Sempre que um arquivo é modificado e salvo, o Nodemon automaticamente reinicia o servidor, permitindo que as atualizações sejam refletidas imediatamente. Isso acelera o ciclo de desenvolvimento, pois você não precisa parar e reiniciar o servidor a cada alteração.
+
+Vantagens:
+
+Atualizações rápidas: O Nodemon permite que você veja as alterações em seu código instantaneamente, sem a necessidade de reiniciar manualmente o servidor. Isso agiliza o processo de desenvolvimento e economiza tempo.
+
+Produtividade: Com a capacidade de reiniciar automaticamente o servidor, você pode se concentrar no desenvolvimento em vez de se preocupar com o processo de reinicialização. Isso aumenta a produtividade do desenvolvedor.
+
+Detecção de erros: O Nodemon exibe mensagens de erro no console, facilitando a detecção e solução de problemas no código. Isso é especialmente útil durante o desenvolvimento, pois você pode corrigir erros rapidamente sem interromper manualmente o servidor.
+
+Desvantagens:
+
+Overhead de recursos: O Nodemon consome recursos do sistema, já que está constantemente monitorando os arquivos do projeto em busca de alterações. Em projetos grandes ou em máquinas com recursos limitados, isso pode causar um impacto no desempenho.
+
+Reinicializações desnecessárias: Em algumas situações, o Nodemon pode reiniciar o servidor mesmo quando as alterações nos arquivos não têm impacto na execução do servidor. Isso pode causar reinicializações desnecessárias, resultando em tempos de espera adicionais.
+
+No geral, o Nodemon é uma ferramenta valiosa para o desenvolvimento Node.js, permitindo atualizações rápidas e automáticas durante o desenvolvimento. No entanto, é importante considerar o consumo de recursos e possíveis reinicializações desnecessárias ao usá-lo em projetos específicos.

@@ -1,0 +1,17 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Guilherme de Moura Santos - 2110362 
+DATA: 19/05/2023
+
+Atividade: Crie uma analogia relacionada do seu projeto explicando os conceitos de frontend, backend, api rest. 
+
+
+Imagine que você está construindo uma casa, e cada parte desse processo tem uma função específica.
+
+O frontend seria como a fachada e o interior da casa. É a parte visível e interativa, onde os usuários podem ver e interagir com o design, os botões, as imagens e o conteúdo da casa. Assim como o frontend de um projeto web, a fachada e o interior da casa são responsáveis por fornecer uma experiência agradável e intuitiva para os visitantes.
+
+O backend seria como os sistemas elétricos, hidráulicos e de segurança da casa. Essas partes não são visíveis para os visitantes, mas são essenciais para o funcionamento da casa. Da mesma forma, o backend de um projeto web lida com a lógica, o processamento de dados e o armazenamento de informações. É responsável por processar solicitações, gerenciar bancos de dados e fornecer os dados necessários para o frontend.
+
+A API REST (Interface de Programação de Aplicações Representacionais de Estado Transferido) pode ser comparada a um manual de instruções da casa. É uma especificação que define como o frontend e o backend devem se comunicar entre si. Assim como o manual da casa orienta como os sistemas devem interagir para fornecer um ambiente funcional, a API REST define os métodos, formatos e padrões de comunicação que o frontend e o backend devem seguir para trocar dados e executar ações.
+
+Em resumo, assim como construir uma casa envolve a fachada e o interior (frontend), os sistemas elétricos e hidráulicos (backend) e o manual de instruções (API REST), desenvolver um projeto web requer a criação da interface do usuário (frontend), a lógica de processamento de dados (backend) e a definição de como essas partes se comunicam (API REST).

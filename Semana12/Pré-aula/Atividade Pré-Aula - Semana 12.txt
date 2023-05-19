@@ -1,0 +1,26 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Guilherme de Moura Santos - 2110362 
+DATA: 19/05/2023
+
+Atividade: De acordo com tema individual da disciplina, identifique quais os os relacionamentos entres as entidades (tabelas). 
+ 
+
+
+Tabela "Jogadores":
+
+Atributos: ID do jogador, nome, idade, e-mail, senha, etc.
+Tabela "Personagens":
+
+Atributos: ID do personagem, nome, idade, habilidades, história, etc.
+Tabela "Itens":
+
+Atributos: ID do item, nome, descrição, tipo, raridade, etc.
+Tabela "Inventário":
+
+Atributos: ID do inventário, ID do jogador, ID do item, quantidade, etc.
+Relacionamento: Um jogador pode ter vários itens em seu inventário. Portanto, a tabela "Inventário" estabelece um relacionamento entre as tabelas "Jogadores" e "Itens" através de suas chaves estrangeiras.
+Tabela "Progresso":
+
+Atributos: ID do progresso, ID do jogador, ID do personagem, nível, pontuação, etc.
+Relacionamento: Cada jogador pode ter vários registros de progresso, indicando seu progresso individual em relação a personagens específicos. Portanto, a tabela "Progresso" estabelece um relacionamento entre as tabelas "Jogadores" e "Personagens".

@@ -1,0 +1,19 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Guilherme de Moura Santos - 2110362 
+DATA: 19/05/2023
+
+Atividade: Escreva um resumo sobre como é possível a utilização de javascript como backend. 
+
+
+JavaScript, originalmente desenvolvido para execução no navegador, também pode ser usado como linguagem de backend através do Node.js. Isso permite a criação de servidores web, APIs e implementação de lógica de negócios. O uso de JavaScript no backend oferece benefícios como compartilhamento de código entre frontend e backend, um ecossistema rico de bibliotecas e frameworks, escalabilidade, integração com bancos de dados populares e ferramentas de desenvolvimento robustas. No entanto, é importante considerar que outras linguagens podem ser mais adequadas dependendo das necessidades do projeto.
+
+Linguagem unificada: Utilizar JavaScript tanto no frontend quanto no backend permite que desenvolvedores compartilhem código e lógica entre as camadas da aplicação, o que simplifica o desenvolvimento e a manutenção.
+
+Ecossistema rico: O ecossistema do JavaScript é vasto e possui uma ampla gama de bibliotecas e frameworks para facilitar o desenvolvimento backend, como o Express.js, Koa.js e Nest.js. Isso proporciona uma maior produtividade e suporte à criação de aplicativos robustos.
+
+Escalabilidade: Com o uso do Node.js, o JavaScript pode lidar com um grande número de solicitações simultâneas devido à sua natureza orientada a eventos e não bloqueante. Isso o torna adequado para a construção de sistemas escaláveis e de alto desempenho.
+
+Integração com bancos de dados: JavaScript como backend pode se integrar a diversos bancos de dados populares, como MongoDB, MySQL e PostgreSQL, por meio de bibliotecas e drivers específicos. Isso permite a persistência de dados e a interação com sistemas de armazenamento.
+
+Ferramentas de desenvolvimento: Existem muitas ferramentas disponíveis para facilitar o desenvolvimento e a depuração de aplicativos JavaScript no backend, como o npm (Node Package Manager) para gerenciar pacotes, o Debug para depurar o código e o Visual Studio Code para um ambiente de desenvolvimento integrado (IDE) completo.

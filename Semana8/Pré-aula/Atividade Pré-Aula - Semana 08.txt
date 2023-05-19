@@ -1,0 +1,18 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Guilherme de Moura Santos - 2110362 
+DATA: 19/05/2023
+
+Atividade: Produza um resumo sobre utilização de pagina SPA.
+
+As páginas SPA (Single-Page Application) são uma abordagem moderna e popular no desenvolvimento de aplicações web. Ao contrário das páginas tradicionais da web, onde cada clique em um link ou botão resulta em um carregamento completo de uma nova página do servidor, as SPAs carregam uma única página HTML no início e, em seguida, dinamicamente atualizam o conteúdo conforme o usuário interage com a aplicação.
+
+A principal característica de uma página SPA é que ela utiliza JavaScript para criar uma experiência de usuário fluida e interativa. Quando um usuário executa uma ação, como clicar em um link interno, os dados necessários são carregados assincronamente do servidor e a página é atualizada de forma dinâmica sem a necessidade de recarregamento completo. Isso resulta em uma experiência mais rápida e suave para o usuário, sem interrupções na navegação.
+
+Vantagens das páginas SPA:
+
+Desempenho: Como apenas os dados necessários são carregados, em vez de uma página inteira, o desempenho é geralmente mais rápido em comparação com as abordagens tradicionais de múltiplas páginas.
+
+Interação contínua: As SPAs permitem que os usuários interajam com a aplicação sem interrupções, pois o conteúdo é atualizado dinamicamente, sem recarregar a página.
+
+Responsividade: As SPAs são bem adaptáveis a diferentes dispositivos, incluindo
