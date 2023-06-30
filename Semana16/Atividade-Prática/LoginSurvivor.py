@@ -1,3 +1,8 @@
+#  Curso de Engenharia de Software - UniEVANGÉLICA
+#  Disciplina de Programação Web
+#  Dev: Guilherme de Moura Santos - 2110362
+#  DATA: 19/05/2023
+
 from flask import Flask, request
 
 app = Flask(__name__)
